@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-11-23 15:34:43
- * @LastEditTime: 2021-11-23 16:37:42
+ * @LastEditTime: 2021-11-23 16:43:57
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \monthly\docs\issue-1.md
@@ -147,3 +147,10 @@ Struve大地弧的地图，其中红点标识世界遗产。
 立陶宛的 Struve 测地弧站。
 
 
+## 订阅
+
+月刊每月最后一周发布，微信搜索“Ur Home”或者扫描二维码，即可订阅。
+
+![](https://ur-home.oss-cn-shanghai.aliyuncs.com/weixin/weixin_gzh.jpg)
+
+（完）
