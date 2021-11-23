@@ -1,12 +1,4 @@
-<!--
- * @Author: your name
- * @Date: 2021-11-23 15:34:43
- * @LastEditTime: 2021-11-23 16:43:57
- * @LastEditors: Please set LastEditors
- * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- * @FilePath: \monthly\docs\issue-1.md
--->
-# 科技爱好者月刊（第 1 期）
+# Ur Home月刊（第 1 期）
 
 这里记录每月值得分享的科技内容，每月最后一周发布。
 
