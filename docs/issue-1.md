@@ -143,6 +143,6 @@ Struve大地弧的地图，其中红点标识世界遗产。
 
 月刊每月最后一周发布，微信搜索“Ur Home”或者扫描二维码，即可订阅。
 
-![](https://ur-home.oss-cn-shanghai.aliyuncs.com/weixin/weixin_gzh.jpg)
+<img src="https://ur-home.oss-cn-shanghai.aliyuncs.com/weixin/weixin_gzh.jpg" width = "200" alt="1412_qrcode" align=center />
 
 （完）
