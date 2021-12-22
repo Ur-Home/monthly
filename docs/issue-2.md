@@ -89,7 +89,7 @@ When Paul and I were starting Microsoft, we had a vision that personal computers
 - 丹尼斯·维伦纽瓦，沙丘 Dune (2021)
 
 
-6.[《自然》杂志评选了本年度帮助塑造科学的十个人（英文）](https://www.nature.com/immersive/d41586-021-03621-0/index.html)
+6.[《自然》杂志评选了2021年度十大人物榜单Nature’s 10（英文）](https://www.nature.com/immersive/d41586-021-03621-0/index.html)
 [PDF（英文）](https://media.nature.com/original/magazine-assets/d41586-021-03621-0/d41586-021-03621-0.pdf)
 
 ![image](https://user-images.githubusercontent.com/37261842/147020574-ee1962d4-a84c-4879-b26c-a057bf68e53a.png)
