@@ -2,7 +2,7 @@
 
 这里记录每月值得分享的科技内容，每月最后一周发布。
 
-本杂志开源（GitHub: [wz930206/monthly](https://github.com/wz930206/monthly)），欢迎提交 issue，投稿或推荐科技内容。
+本月刊开源（GitHub: [wz930206/monthly](https://github.com/wz930206/monthly)），欢迎提交 issue，投稿或推荐科技内容。
 
 ## 科技动态
 
