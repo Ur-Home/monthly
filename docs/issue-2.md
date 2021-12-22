@@ -2,7 +2,7 @@
 
 这里记录每月值得分享的科技内容，每月22号发布。
 
-本杂志开源（Gitee: [Ur Home/monthly](https://gitee.com/ur-home/monthly)），欢迎提交（issues: [monthly/issues](https://gitee.com/ur-home/monthly/issues)），投稿或推荐科技内容。
+本月刊开源（Gitee: [Ur Home/monthly](https://gitee.com/ur-home/monthly)），欢迎提交（issues: [monthly/issues](https://gitee.com/ur-home/monthly/issues)），投稿或推荐科技内容。
 
 ## 封面图
 
@@ -92,7 +92,7 @@ When Paul and I were starting Microsoft, we had a vision that personal computers
 6.[《自然》杂志评选了2021年度十大人物榜单Nature’s 10（英文）](https://www.nature.com/immersive/d41586-021-03621-0/index.html)
 [PDF（英文）](https://media.nature.com/original/magazine-assets/d41586-021-03621-0/d41586-021-03621-0.pdf)
 
-![image](https://user-images.githubusercontent.com/37261842/147020574-ee1962d4-a84c-4879-b26c-a057bf68e53a.png)
+![image](https://user-images.githubusercontent.com/37261842/147022871-24541501-2324-4f09-a921-af71a50b6728.png)
 
 《自然》杂志的Nature’s 10榜探讨了今年科学的关键发展以及在这些里程碑中扮演重要角色的一些人，这些人与他们的同事一起，帮助他们取得了惊人的发现，并引起了对关键问题的关注，《自然》杂志的Nature’s 10不是奖项或排名，选集由 Nature 的编辑们汇编而成，旨在通过参与者引人注目的故事来突出科学领域的关键事件。
 
